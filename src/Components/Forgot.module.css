@@ -1,0 +1,39 @@
+.forgot {
+  background-color: black;
+  width: 22%;
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  height: 20%;
+  padding: 6%;
+  border-radius: 8px;
+}
+
+label {
+  color: white;
+}
+
+.forgot input {
+  padding: 2%;
+  width: 100%;
+  margin: 6px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+button {
+  padding: 2px;
+  color: black;
+  background-color: #7ccae9;
+  border: none;
+  width: 70%;
+  height: 30px;
+
+  border-radius: 4px;
+}
+
+.user button {
+  background-color: black;
+  color: whitesmoke;
+  padding: 25px;
+}

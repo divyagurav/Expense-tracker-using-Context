@@ -1,0 +1,51 @@
+h3 {
+  text-align: left;
+  font-size: 25px;
+}
+.profile {
+  position: absolute;
+  top: 13%;
+  right: 6%;
+  border-bottom: 1px solid grey;
+  border-radius: 5px;
+  height: 23%;
+  padding-left: 30px;
+  width: 60%;
+  margin-top: 6%;
+}
+
+.profile label {
+  padding: 3px;
+  font-weight: bolder;
+  padding-left: 1%;
+  color: black;
+
+  padding-right: 30px;
+}
+
+.profile input {
+  margin-right: 50px;
+  width: 26%;
+}
+
+.update button {
+  position: absolute;
+  width: 70px;
+  left: 5%;
+  bottom: 6%;
+  padding: 8px;
+  border-radius: 6px;
+  border: 0px;
+  background-color: #8c53c6;
+  color: whitesmoke;
+}
+
+.cancel button {
+  position: absolute;
+  bottom: 90%;
+  left: 90%;
+  border: 1px solid;
+  border-radius: 0px;
+  width: 10%;
+  padding: 10px;
+}

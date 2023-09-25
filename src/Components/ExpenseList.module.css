@@ -1,0 +1,25 @@
+.expenseList {
+  position: absolute;
+  top: 500px;
+  left: 500px;
+  padding: 3px;
+  width: 458px;
+  background-color: transparent;
+  border-radius: 8px;
+}
+
+li {
+  background-color: brown;
+  padding-top: 10px;
+  padding: 10px;
+  height: 40px;
+  color: whitesmoke;
+  border-radius: 8px;
+  width: 440px;
+  margin-left: 0px;
+}
+
+.expenseList button {
+  width: 15%;
+  margin-left: 8px;
+}
